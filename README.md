@@ -38,5 +38,8 @@ System.out.println("Decimal to Roman: " + romanValue);
 ## Testing
 The project includes a comprehensive set of unit tests created with JUnit 5 to ensure the correctness of the conversion and validate that it adheres to the rules of Roman numerals. You can run these tests to verify the functionality of the converter.
 
+![image](https://github.com/erick-jhone/Java-Roman-Numeral-Converter---TDD/assets/105982997/24925837-74cc-4d97-99f7-01c90e6e362b)
+
+
 ## Contributing
 If you'd like to contribute to this project, feel free to open issues, suggest improvements, or submit pull requests. Your contributions are welcome and appreciated.
